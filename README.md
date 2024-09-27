@@ -25,7 +25,7 @@
         📫 Reach me at  <a href="mailto:derekgan08@gmail.com">derekgan08@gmail.com</a>
     </li>
     <li>
-        🌟 Don't forget to checkout my <a href="">portfolio</a> too~
+        🌟 Don't forget to checkout my <a href="https://derekgan08.github.io/portfolio/">portfolio</a> too~
     </li>
 </ul>
 
