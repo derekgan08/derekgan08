@@ -66,7 +66,7 @@ To embrace lifelong learning and adaptability by mastering key areas of computer
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=derekgan08&theme=radical&hide_border=true"><br>
     </div>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=derekgan08&theme=2077"><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=derekgan08&layout=compact&theme=radical&hide_border=true&langs_count=8"><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=derekgan08&layout=compact&theme=radical&hide_border=true&langs_count=16"><br>
     <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=derekgan08&theme=2077&utcOffset=8"><br> -->
     <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=derekgan08&layout=compact&theme=transparent"><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=derekgan08&layout=compact&theme=radical&hide_border=true"><br> -->
@@ -88,14 +88,14 @@ To embrace lifelong learning and adaptability by mastering key areas of computer
     <tr>
         <td><b>Deep Learning</td>
         <td>
-            <a href="https://www.tensorflow.org/"> <img src="assets/language-and-tools/tensorflow-original-wordmark.svg" alt="TensorFlow" width="40" height="40"></a>&nbsp
-            <a href="https://pytorch.org/"> <img src="assets/language-and-tools/pytorch-original-wordmark.svg" alt="PyTorch" width="40" height="40"></a>&nbsp
+            <a href="https://www.tensorflow.org/"> <img src="assets/language-and-tools/tensorflow-original.svg" alt="TensorFlow" width="" height="40"></a>&nbsp
+            <a href="https://pytorch.org/"> <img src="assets/language-and-tools/pytorch-original.svg" alt="PyTorch" width="40" height="40"></a>&nbsp
         </td>
     </tr>
     <tr>
         <td><b>Computer Vision</td>
         <td>
-            <a href="https://opencv.org/"> <img src="assets/language-and-tools/opencv-original-wordmark.svg" alt="OpenCV" width="40" height="40"></a>
+            <a href="https://opencv.org/"> <img src="assets/language-and-tools/opencv-original.svg" alt="OpenCV" width="40" height="40"></a>
         </td>
     </tr>
 </table>
@@ -106,13 +106,13 @@ To embrace lifelong learning and adaptability by mastering key areas of computer
         <td><b>Data Crawling</td>
         <td>
             <a href="https://github.com/strohne/Facepager"> <img src="assets/language-and-tools/Facepager.png" alt="Facepager" width="40" height="40"></a>&nbsp
-            <a href="https://www.octoparse.com/"> <img src="assets/language-and-tools/Octoparse.png" alt="Octoparse" width="40" height="40"></a>
+            <a href="https://www.octoparse.com/"> <img src="assets/language-and-tools/Octoparse.jpg" alt="Octoparse" width="" height="40"></a>
         </td>
     </tr>
     <tr>
         <td><b>Data Mining</td>
         <td>
-            <a href="https://altair.com/altair-rapidminer"> <img src="assets/language-and-tools/RapidMiner.png" alt="RapidMiner" width="40" height="40"></a>
+            <a href="https://altair.com/altair-rapidminer"> <img src="assets/language-and-tools/RapidMiner.jpg" alt="RapidMiner" width="40" height="40"></a>
         </td>
     </tr>
     <tr>
@@ -154,7 +154,7 @@ To embrace lifelong learning and adaptability by mastering key areas of computer
     <tr>
         <td><b>Semantic Retrieval</td>
         <td>
-            <a href="https://www.tensorflow.org/"> <img src="assets/language-and-tools/tensorflow-original-wordmark.svg" alt="TensorFlow" width="40" height="40"></a>&nbsp
+            <a href="https://www.tensorflow.org/"> <img src="assets/language-and-tools/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"></a>&nbsp
         </td>
     </tr>
 </table>
@@ -170,24 +170,24 @@ To embrace lifelong learning and adaptability by mastering key areas of computer
 <div>
     <a href="https://dbeaver.io/"> <img src="assets/language-and-tools/dbeaver-original.svg" alt="DBeaver" width="40" height="40"></a>&nbsp
     <a href="https://www.oracle.com/my/database/"> <img src="assets/language-and-tools/oracle-original.svg" alt="Oracle" width="40" height="40"></a>&nbsp
-    <a href="https://www.mysql.com/"> <img src="assets/language-and-tools/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"></a>&nbsp
-    <a href="https://www.microsoft.com/en-my/sql-server/sql-server-downloads"> <img src="assets/language-and-tools/microsoftsqlserver-original-wordmark.svg" alt="Microsoft Sql Server" width="40" height="40"></a>&nbsp
+    <a href="https://www.mysql.com/"> <img src="assets/language-and-tools/mysql-original.svg" alt="MySQL" width="40" height="40"></a>&nbsp
+    <a href="https://www.microsoft.com/en-my/sql-server/sql-server-downloads"> <img src="assets/language-and-tools/microsoftsqlserver-original.svg" alt="Microsoft Sql Server" width="40" height="40"></a>&nbsp
     <a href="https://www.ibm.com/db2"> <img src="assets/language-and-tools/IBM DB2.png" alt="IBM DB2" width="40" height="40"></a>
 </div>
 
 ### NoSQL Database Development and Management:
 <div>
-    <a href="https://www.mongodb.com/"> <img src="assets/language-and-tools/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"></a>&nbsp
-    <a href="https://firebase.google.com/"> <img src="assets/language-and-tools/firebase-original-wordmark.svg" alt="Firebase" width="40" height="40"></a>&nbsp
+    <a href="https://www.mongodb.com/"> <img src="assets/language-and-tools/mongodb-original.svg" alt="MongoDB" width="40" height="40"></a>&nbsp
+    <a href="https://firebase.google.com/"> <img src="assets/language-and-tools/firebase-original.svg" alt="Firebase" width="40" height="40"></a>&nbsp
     <a href="https://aws.amazon.com/dynamodb/"> <img src="assets/language-and-tools/dynamodb-original.svg" alt="DynamoDB" width="40" height="40"></a>&nbsp
     <a href="https://cassandra.apache.org/"> <img src="assets/language-and-tools/cassandra-original-wordmark.svg" alt="Cassandra" width="40" height="40"></a>&nbsp
-    <a href="https://neo4j.com/"> <img src="assets/language-and-tools/neo4j-original-wordmark.svg" alt="Neo4j" width="40" height="40"></a>
+    <a href="https://neo4j.com/"> <img src="assets/language-and-tools/neo4j-original.svg" alt="Neo4j" width="40" height="40"></a>
 </div>
 
 ### Big Data Technologies:
 <div>
-    <a href="https://hadoop.apache.org/"> <img src="assets/language-and-tools/hadoop-original-wordmark.svg" alt="Apache Hadoop" width="" height="40"></a>&nbsp
-    <a href="https://spark.apache.org/"> <img src="assets/language-and-tools/Apache Spark.png" alt="Apache Spark" width="" height="40"></a>&nbsp
+    <a href="https://hadoop.apache.org/"> <img src="assets/language-and-tools/hadoop-original.svg" alt="Apache Hadoop" width="" height="40"></a>&nbsp
+    <a href="https://spark.apache.org/"> <img src="assets/language-and-tools/apachespark-original.svg" alt="Apache Spark" width="" height="40"></a>&nbsp
     <a href="https://hive.apache.org/"> <img src="assets/language-and-tools/Apache Hive.svg" alt="Apache Hive" width="" height="40"></a>
 </div>
 
@@ -196,10 +196,10 @@ To embrace lifelong learning and adaptability by mastering key areas of computer
     <tr>
         <td><b>Frontend</td>
         <td>
-            <a href="https://react.dev/"> <img src="assets/language-and-tools/react-original-wordmark.svg" alt="React" width="40" height="40"></a>&nbsp
-            <a href="https://vuejs.org/"> <img src="assets/language-and-tools/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"></a>&nbsp
+            <a href="https://react.dev/"> <img src="assets/language-and-tools/react-original.svg" alt="React" width="40" height="40"></a>&nbsp
+            <a href="https://vuejs.org/"> <img src="assets/language-and-tools/vuejs-original.svg" alt="Vue.js" width="40" height="40"></a>&nbsp
             <a href="https://www.thymeleaf.org/"> <img src="assets/language-and-tools/Thymeleaf.png" alt="Thymeleaf" width="" height="40"></a>&nbsp
-            <a href="https://jquery.com/"> <img src="assets/language-and-tools/jquery-original-wordmark.svg" alt="jQuery" width="" height="40"></a>&nbsp
+            <a href="https://jquery.com/"> <img src="assets/language-and-tools/jquery-original.svg" alt="jQuery" width="" height="40"></a>&nbsp
             <a href="https://api.jquery.com/jQuery.ajax/"> <img src="assets/language-and-tools/Ajax.jpg" alt="AJAX" width="" height="40"></a>
         </td>
     </tr>
@@ -207,18 +207,18 @@ To embrace lifelong learning and adaptability by mastering key areas of computer
         <td><b>Middleware</td>
         <td>
             <a href="https://expressjs.com/"> <img src="assets/language-and-tools/express-original-wordmark.svg" alt="Express.js" width="40" height="40"></a>&nbsp
-            <a href="https://www.oracle.com/java/technologies/appmodel.html"> <img src="assets/language-and-tools/j2EE.png" alt="J2EE" width="" height="40"></a>&nbsp
-            <a href="https://tomcat.apache.org/"> <img src="assets/language-and-tools/tomcat-original-wordmark.svg" alt="Apache Tomcat" width="40" height="40"></a>&nbsp
-            <a href="https://struts.apache.org/"> <img src="assets/language-and-tools/apache-struts.png" alt="Apache Struts" width="" height="40"></a>
+            <a href="https://www.oracle.com/java/technologies/appmodel.html"> <img src="assets/language-and-tools/J2EE.png" alt="J2EE" width="" height="40"></a>&nbsp
+            <a href="https://tomcat.apache.org/"> <img src="assets/language-and-tools/tomcat-original.svg" alt="Apache Tomcat" width="40" height="40"></a>&nbsp
+            <a href="https://struts.apache.org/"> <img src="assets/language-and-tools/apache-struts.jpg" alt="Apache Struts" width="" height="40"></a>
         </td>
     </tr>
     <tr>
         <td><b>Backend</td>
         <td>
-            <a href="https://nodejs.org/"> <img src="assets/language-and-tools/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"></a>&nbsp
-            <a href="https://flask.palletsprojects.com/"> <img src="assets/language-and-tools/flask-original-wordmark.svg" alt="Flask" width="40" height="40"></a>&nbsp
-            <a href="https://spring.io/"> <img src="assets/language-and-tools/spring-original-wordmark.svg" alt="Spring" width="40" height="40"></a>&nbsp
-            <a href="https://spring.io/projects/spring-boot"> <img src="assets/language-and-tools/Spring Boot.png" alt="Spring Boot" width="" height="40"></a>
+            <a href="https://nodejs.org/"> <img src="assets/language-and-tools/nodejs-original.svg" alt="Node.js" width="40" height="40"></a>&nbsp
+            <a href="https://flask.palletsprojects.com/"> <img src="assets/language-and-tools/flask-original.svg" alt="Flask" width="40" height="40"></a>&nbsp
+            <a href="https://spring.io/"> <img src="assets/language-and-tools/spring-original.svg" alt="Spring" width="40" height="40"></a>&nbsp
+            <a href="https://spring.io/projects/spring-boot"> <img src="assets/language-and-tools/spring-boot.jpg" alt="Spring Boot" width="" height="40"></a>
         </td>
     </tr>
 </table>
@@ -256,13 +256,13 @@ To embrace lifelong learning and adaptability by mastering key areas of computer
 ### Software Testing:
 <div>
     <a href="https://www.selenium.dev/selenium-ide/"> <img src="assets/language-and-tools/Selenium IDE.png" alt="Selenium IDE" width="40" height="40"></a>&nbsp
-    <a href="https://www.postman.com/"> <img src="assets/language-and-tools/postman-original-wordmark.svg" alt="Postman" width="" height="40"></a>&nbsp
-    <a href="https://www.redmine.org/"> <img src="assets/language-and-tools/Redmine.png" alt="Redmine" width="" height="40"></a>
+    <a href="https://www.postman.com/"> <img src="assets/language-and-tools/postman-original.svg" alt="Postman" width="" height="40"></a>&nbsp
+    <a href="https://www.redmine.org/"> <img src="assets/language-and-tools/Redmine.jpg" alt="Redmine" width="" height="40"></a>
 </div>
 
 ### Version Control:
 <div>
-    <a href="https://github.com/derekgan08"> <img src="assets/language-and-tools/github-original-wordmark.svg" alt="GitHub" width="40" height="40"></a>&nbsp
+    <a href="https://github.com/derekgan08"> <img src="assets/language-and-tools/github-original.svg" alt="GitHub" width="40" height="40"></a>&nbsp
     <a href="https://gogs.io/"> <img src="assets/language-and-tools/Gogs.png" alt="Gogs" width="" height="40"></a>
 </div>
 
@@ -270,33 +270,33 @@ To embrace lifelong learning and adaptability by mastering key areas of computer
 ### Object-Oriented Programming Language (OOP):
 <div>
     <a href="https://cplusplus.com/"> <img src="assets/language-and-tools/cplusplus-original.svg" alt="C++" width="40" height="40"></a>&nbsp
-    <a href="https://www.java.com/"> <img src="assets/language-and-tools/java-original-wordmark.svg" alt="Java" width="40" height="40"></a>&nbsp
-    <a href="https://www.python.org/"> <img src="assets/language-and-tools/python-original-wordmark.svg" alt="Python" width="40" height="40"></a>
+    <a href="https://www.java.com/"> <img src="assets/language-and-tools/java-original.svg" alt="Java" width="40" height="40"></a>&nbsp
+    <a href="https://www.python.org/"> <img src="assets/language-and-tools/python-original.svg" alt="Python" width="40" height="40"></a>
 </div>
 
 ### Web Development:
 <div>
     <a href="https://www.w3.org/html/"> <img src="assets/language-and-tools/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"></a>&nbsp
     <a href="https://www.w3.org/Style/CSS/Overview.en.html"> <img src="assets/language-and-tools/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"></a>&nbsp
-    <a href="https://www.java.com/"> <img src="assets/language-and-tools/java-original-wordmark.svg" alt="Java" width="40" height="40"></a>&nbsp
+    <a href="https://www.java.com/"> <img src="assets/language-and-tools/java-original.svg" alt="Java" width="40" height="40"></a>&nbsp
     <a href="https://www.javascript.com/"> <img src="assets/language-and-tools/javascript-original.svg" alt="JavaScript" width="40" height="40"></a>&nbsp
     <a href="https://www.php.net/"> <img src="assets/language-and-tools/php-original.svg" alt="PHP" width="40" height="40"></a>&nbsp
-    <a href="https://www.python.org/"> <img src="assets/language-and-tools/python-original-wordmark.svg" alt="Python" width="40" height="40"></a>
+    <a href="https://www.python.org/"> <img src="assets/language-and-tools/python-original.svg" alt="Python" width="40" height="40"></a>
 </div>
 
 ### Mobile App Development:
 <div>
-    <a href="https://dart.dev/"> <img src="assets/language-and-tools/dart-original-wordmark.svg" alt="Dart" width="40" height="40"></a>
+    <a href="https://dart.dev/"> <img src="assets/language-and-tools/dart-original.svg" alt="Dart" width="40" height="40"></a>
 </div>
 
 ### Desktop App Development:
 <div>
-    <a href="https://www.java.com/"> <img src="assets/language-and-tools/java-original-wordmark.svg" alt="Java" width="40" height="40"></a>
+    <a href="https://www.java.com/"> <img src="assets/language-and-tools/java-original.svg" alt="Java" width="40" height="40"></a>
 </div>
 
 ### Data Analysis:
 <div>
-    <a href="https://www.python.org/"> <img src="assets/language-and-tools/python-original-wordmark.svg" alt="Python" width="40" height="40"></a>&nbsp
+    <a href="https://www.python.org/"> <img src="assets/language-and-tools/python-original.svg" alt="Python" width="40" height="40"></a>&nbsp
     <a href="https://www.r-project.org/"> <img src="assets/language-and-tools/r-original.svg" alt="R" width="40" height="40"></a>&nbsp
     <a href="https://www.mathworks.com/products/matlab.html"> <img src="assets/language-and-tools/matlab-original.svg" alt="MATLAB" width="40" height="40"></a>
 </div>
@@ -306,8 +306,8 @@ To embrace lifelong learning and adaptability by mastering key areas of computer
     <a href="https://www.cprogramming.com/"> <img src="assets/language-and-tools/c-original.svg" alt="C" width="40" height="40"></a>&nbsp
     <a href="https://dotnet.microsoft.com/en-us/languages/csharp"> <img src="assets/language-and-tools/csharp-original.svg" alt="C#" width="40" height="40"></a>&nbsp
     <a href="https://go.dev/"> <img src="assets/language-and-tools/go-original-wordmark.svg" alt="Go" width="40" height="40"></a>&nbsp
-    <a href="https://www.ruby-lang.org/en/"> <img src="assets/language-and-tools/ruby-original-wordmark.svg" alt="Ruby" width="40" height="40"></a>&nbsp
-    <a href="https://www.oracle.com/my/database/technologies/appdev/sql.html"> <img src="assets/language-and-tools/SQL.png" alt="SQL" width="40" height="40"></a>
+    <a href="https://www.ruby-lang.org/en/"> <img src="assets/language-and-tools/ruby-original.svg" alt="Ruby" width="40" height="40"></a>&nbsp
+    <a href="https://www.oracle.com/my/database/technologies/appdev/sql.html"> <img src="assets/language-and-tools/sql-database-generic.svg" alt="SQL" width="40" height="40"></a>
 </div>
 
 
