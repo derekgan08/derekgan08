@@ -67,7 +67,7 @@ To embrace lifelong learning and adaptability by mastering key areas of computer
     <!-- <img src="https://github-readme-stats.vercel.app/api?username=derekgan08"><br> -->
     <!-- <img src="https://github-readme-stats.vercel.app/api?username=derekgan08&show_icons=true&hide_title=true&count_private=true&theme=radical&hide_border=true" /><br> -->
     <!-- Source: https://github.com/anuraghazra/github-readme-stats#top-languages-card -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=derekgan08&layout=compact&theme=radical&hide_border=true&langs_count=18&size_weight=0.8&count_weight=0.2">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=derekgan08&layout=compact&theme=radical&hide_border=true&langs_count=18&size_weight=0.8&count_weight=0.2"><br>
     <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=derekgan08&theme=2077&utcOffset=8"><br> -->
     <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=derekgan08&layout=compact&theme=transparent"><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=derekgan08&layout=compact&theme=radical&hide_border=true"><br> -->
