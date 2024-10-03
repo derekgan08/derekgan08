@@ -19,7 +19,7 @@
         💼 I'm currently open to new job opportunities
     </li>
     <li>
-        📰 Read my publications at <a href="https://www.researchgate.net/profile/Derek-Gan-Kaa-Kheng">ResearchGate</a>
+        📰 Read my publications at <a href="https://linktr.ee/derekgan08">ResearchGate</a>
     </li>
     <li>
         📫 Reach me at  <a href="mailto:derekgan08@gmail.com">derekgan08@gmail.com</a>
@@ -51,14 +51,11 @@ https://quotescover.com/tools/online-quotes-maker
 Without goals and plans to reach your vision, you are like a ship that has set sail with no destination
 ``` -->
 
-<h2><img src="assets/my-mission.png" width="20" height="20">&nbsp My Mission</h2>
+<h2><img src="assets/my-mission.jpg" width="20" height="20">&nbsp My Mission</h2>
 To embrace lifelong learning and adaptability by mastering key areas of computer science, including Artificial Intelligence (AI), Data Science (DS), Software Engineering (SE), and Quality Assurance (QA). Through hands-on problem-solving and collaboration, I strive to build scalable, reliable, and intelligent systems that drive innovation and create value for users and businesses alike.
 
 ## 📊 My GitHub Statistics
 <div align="center">
-    <!-- Source: https://github.com/anuraghazra/github-readme-stats -->
-    <!-- <img src="https://github-readme-stats.vercel.app/api?username=derekgan08"><br>
-    <img src="https://github-readme-stats.vercel.app/api?username=derekgan08&show_icons=true&hide_title=true&count_private=true&theme=radical&hide_border=true" /><br> -->
     <!-- Source: https://github.com/vn7n24fzkq/github-profile-summary-cards -->
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=derekgan08&theme=2077&hide_border=true" alt="Profile Details">
     <div class="image-container" display="flex" justify-content="space-between">
@@ -66,7 +63,11 @@ To embrace lifelong learning and adaptability by mastering key areas of computer
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=derekgan08&theme=radical&hide_border=true"><br>
     </div>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=derekgan08&theme=2077"><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=derekgan08&layout=compact&theme=radical&hide_border=true&langs_count=16"><br>
+    <!-- Source: https://github.com/anuraghazra/github-readme-stats -->
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=derekgan08"><br> -->
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=derekgan08&show_icons=true&hide_title=true&count_private=true&theme=radical&hide_border=true" /><br> -->
+    <!-- Source: https://github.com/anuraghazra/github-readme-stats#top-languages-card -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=derekgan08&layout=compact&theme=radical&hide_border=true&langs_count=18&size_weight=0.8&count_weight=0.2">
     <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=derekgan08&theme=2077&utcOffset=8"><br> -->
     <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=derekgan08&layout=compact&theme=transparent"><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=derekgan08&layout=compact&theme=radical&hide_border=true"><br> -->
@@ -75,7 +76,7 @@ To embrace lifelong learning and adaptability by mastering key areas of computer
 </div>
 
 
-## <img src="assets/gears-300x300.gif" width="25" height="25"> Frameworks and Tools:
+## <img src="assets/gears-300x300.gif" width="25" height="25"> My Experience in Tech Stacks
 
 ### Artificial Intelligence (AI):
 <table border="1">
@@ -83,13 +84,15 @@ To embrace lifelong learning and adaptability by mastering key areas of computer
         <td><b>Machine Learning</td>
         <td>
             <a href="https://scikit-learn.org/"><img src="assets/language-and-tools/scikitlearn-original.svg" alt="Scikit-learn" width="40" height="40"></a>&nbsp
+            <a href="https://www.tensorflow.org/"> <img src="assets/language-and-tools/tensorflow-original.svg" alt="TensorFlow" width="" height="40"></a>&nbsp
+            <a href="https://keras.io/"> <img src="assets/language-and-tools/keras-original.svg" alt="TensorFlow" width="" height="40"></a>
         </td>
     </tr>
     <tr>
         <td><b>Deep Learning</td>
         <td>
             <a href="https://www.tensorflow.org/"> <img src="assets/language-and-tools/tensorflow-original.svg" alt="TensorFlow" width="" height="40"></a>&nbsp
-            <a href="https://pytorch.org/"> <img src="assets/language-and-tools/pytorch-original.svg" alt="PyTorch" width="40" height="40"></a>&nbsp
+            <a href="https://pytorch.org/"> <img src="assets/language-and-tools/pytorch-original.svg" alt="PyTorch" width="40" height="40"></a>
         </td>
     </tr>
     <tr>
@@ -257,16 +260,18 @@ To embrace lifelong learning and adaptability by mastering key areas of computer
 <div>
     <a href="https://www.selenium.dev/selenium-ide/"> <img src="assets/language-and-tools/Selenium IDE.png" alt="Selenium IDE" width="40" height="40"></a>&nbsp
     <a href="https://www.postman.com/"> <img src="assets/language-and-tools/postman-original.svg" alt="Postman" width="" height="40"></a>&nbsp
-    <a href="https://www.redmine.org/"> <img src="assets/language-and-tools/Redmine.jpg" alt="Redmine" width="" height="40"></a>
 </div>
+
+### Project Management and Issue Tracking Tool:
+<a href="https://www.redmine.org/"> <img src="assets/language-and-tools/Redmine.jpg" alt="Redmine" width="" height="40"></a>
 
 ### Version Control:
 <div>
     <a href="https://github.com/derekgan08"> <img src="assets/language-and-tools/github-original.svg" alt="GitHub" width="40" height="40"></a>&nbsp
-    <a href="https://gogs.io/"> <img src="assets/language-and-tools/Gogs.png" alt="Gogs" width="" height="40"></a>
+    <a href="https://gogs.io/"> <img src="assets/language-and-tools/Gogs.png" alt="Gogs" width="40" height="40"></a>
 </div>
 
-## <img src="assets/programming-languages.gif" width="35" height="35"> Programming Languages
+## <img src="assets/programming-languages.gif" width="35" height="35"> My Experience in Programming Languages
 ### Object-Oriented Programming Language (OOP):
 <div>
     <a href="https://cplusplus.com/"> <img src="assets/language-and-tools/cplusplus-original.svg" alt="C++" width="40" height="40"></a>&nbsp
@@ -334,16 +339,16 @@ To embrace lifelong learning and adaptability by mastering key areas of computer
 <!-- <h3 align="center">Connect with Me:</h3> -->
 <div id="connect-with-me" align="center">
     <a href="https://github.com/derekgan08"  target="blank">
-        <img align="center" src="assets/connect-with-me/GitHub Logo (Cropped).png" alt="GitHub Logo" height="50" />
-    </a> &nbsp
-    <a href="https://www.kaggle.com/derekgan08" target="blank">
-        <img align="center" src="assets/connect-with-me/Kaggle Logo (Cropped).png" alt="Kaggle Logo" height="50" />
+        <img align="center" src="assets/connect-with-me/github-original.svg" alt="GitHub Logo" height="50" />
     </a> &nbsp
     <a href="https://www.linkedin.com/in/derekgan08/"  target="blank">
-        <img align="center" src="assets/connect-with-me/LinkedIn Logo (Cropped).png" alt="LinkedIn Logo" height="50" />
+        <img align="center" src="assets/connect-with-me/linkedin-original.svg" alt="LinkedIn Logo" height="50" />
+    </a> &nbsp
+    <a href="https://linktr.ee/derekgan08" target="blank">
+        <img align="center" src="assets/connect-with-me/publication.jpg" alt="Publications Logo" height="50" />
     </a> &nbsp
     <a href="https://www.researchgate.net/profile/Derek-Gan-Kaa-Kheng" target="blank">
-        <img align="center" src="assets/connect-with-me/ResearchGate Logo.png" alt="ResearchGate Logo" height="50" />
+        <img align="center" src="assets/connect-with-me/ResearchGate-icon.png" alt="ResearchGate Logo" height="50" />
     </a> &nbsp
 </div>
 
